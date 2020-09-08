@@ -1,0 +1,24 @@
+Package: css-$2000$
+Version: 1.0-1
+PackageType: map
+Mode: modpath
+Game: cssource, cssc
+Conflicts: 
+Replaces:
+Recommends: 
+Installed-Size:
+Priority:
+Essential:
+Origin:
+X-Source:
+VCS-Repo:
+UnitType: server
+GameVersion: all
+Section: misc
+Platform: linux
+Architecture: all
+Depends: bash, sed (>= 3.02-8)
+SysDepends: bash
+Maintainer: gamehoster <host@soclan.ru>
+License: MIT <https://mit-license.org/>
+Description: Sample Script
