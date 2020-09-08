@@ -1,6 +1,7 @@
 Package: css-$2000$
 Version: 1.0-1
 PackageType: map
+Language: int
 Mode: modpath
 Game: cssource, cssc
 Conflicts: 
